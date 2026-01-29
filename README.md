@@ -1,18 +1,19 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a template for the test.
 
-## Folder Structure
+> [!TIP]
+> Clone this repository before starting. 
 
-The workspace contains two folders by default, where:
+## Instructions
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+The structure is a **doubly-linked list**, meaning that each node has a reference to both the node on the left and on the right.  
+Node class is already provided.  
+For DoublyLinkedList class, `add` and `get` methods are implemented, every other method is just an empty prototype.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Submission
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+> [![important]
+> You need to submit a Github repository link at the end of this test!
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Clone the repository, make it public, and remember to commit and push your work before leaving.
